@@ -1,4 +1,4 @@
-# Two_sided_ALBP1
+# Instances_Two_sided_ALBP1
 Instances for two-sided assembly line balancing problem to minimize the number of mated-station and (or) the number of stations  
 This instance set contains the utilized instances in [1] which contain most of the instances in published papers. To gain a more in-depth and thorough understanding of this problem, interested authors are encouraged to refer to our relevant papers[1, 2].  
 References:  
