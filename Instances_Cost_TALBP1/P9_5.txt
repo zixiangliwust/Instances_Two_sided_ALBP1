@@ -1,0 +1,69 @@
+<number of tasks>
+9
+<cycle time>
+5
+<station cost>
+10
+<mated_station cost>
+20
+<tool_number>
+6
+<task times>
+1 2
+2 3
+3 2
+4 3
+5 1
+6 1
+7 2
+8 2
+9 1
+<task directions>
+1 L
+2 R
+3 E
+4 L
+5 R
+6 E
+7 E
+8 L
+9 E
+<tool cost>
+1 26
+2 8
+3 4
+4 31
+5 75
+6 31
+<salary per hour>
+1 1
+2 7
+3 3
+4 3
+5 1
+6 7
+7 7
+8 1
+9 8
+<set of tools>
+2,6
+4,1
+4,4
+4,6
+5,2
+5,4
+6,1
+6,2
+6,4
+6,6
+8,1
+<precedence relations>
+1,4
+2,5
+2,6
+3,6
+4,7
+5,7
+5,8
+6,9
+<end>
